@@ -2,3 +2,7 @@
 	path = INNOVAHN12
 	url = git@github.com:Innovahn/INNOVAHN12.git
 	branch = master
+[submodule "INNOVAHNE12"]
+	path = INNOVAHNE12
+	url = git@github.com:Innovahn/INNOVAHNE12.git
+	branch = master
